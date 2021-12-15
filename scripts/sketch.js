@@ -2,7 +2,7 @@ var bunny;
 var carrot;
 var edge;
 
-
+// This is the setup function
 function setup() {
   createCanvas(600,600);
   edge=createEdgeSprites();
